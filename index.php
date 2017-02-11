@@ -1029,9 +1029,9 @@
 
                 <form>
                   <input class="form-control" type="text" placeholder="Name">
-                  <input class="form-control" type="email" placeholder="Email">
+                  <input class="form-control" type="email" placeholder="Email" required>
                   <input class="form-control" type="text" placeholder="Subject">
-                  <textarea class="form-control" cols="30" rows="10" placeholder="Your Message"></textarea>
+                  <textarea class="form-control" cols="30" rows="10" placeholder="Your Message" required></textarea>
                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="submit_btn" type="submit" value="Send">  
                 </form>
               </div>
