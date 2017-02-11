@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+    <link rel="shortcut icon" type="image/png" href="img/22UponTwo_favicon.png"/>
 
     <!-- CSS
     ================================================== -->       
@@ -639,10 +639,10 @@
 
 
     <!--=========== BEGAIN PRICING SECTION ================-->
-    <section id="pricing">
+    <!-- <section id="pricing">
       <div class="container">
         <div class="row col-lg-12 col-md-12">
-          <!-- START ABOUT HEADING -->
+          
           <div class="heading">
             <h2 class="wow fadeInLeftBig">Our Pricing</h2>
             <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>
@@ -651,7 +651,7 @@
         <div class="row col-lg-12 col-md-12">
           <div class="pricing_area">
             <div class="row">
-              <!-- BEGAIN BASIC PRICE TABLE -->
+              
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="single_price wow fadeInUp">
                   <h3>Basic</h3>
@@ -671,7 +671,7 @@
                   <a href="#" class="price_btn">Select Plan</a>
                 </div>
               </div>
-              <!-- BEGAIN STANDARD PRICE TABLE -->
+              
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="single_price wow fadeInUp">
                   <h3>Standard</h3>
@@ -691,7 +691,7 @@
                   <a href="#" class="price_btn">Select Plan</a>
                 </div>
               </div>
-              <!-- BEGAIN BUSINESS PRICE TABLE -->
+              
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="single_price business_price wow fadeInUp">
                   <h3>Business</h3>
@@ -711,7 +711,7 @@
                   <a href="#" class="price_btn">Select Plan</a>
                 </div>
               </div>
-              <!-- BEGAIN DELUX PRICE TABLE -->
+              
               <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="single_price wow fadeInUp">
                   <h3>Delux</h3>
@@ -735,7 +735,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!--=========== END PRICING SECTION ================-->
 
 
