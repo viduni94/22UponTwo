@@ -1102,7 +1102,7 @@
               <h2 class="wow fadeInLeftBig">Subscribe Us</h2>
               <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
             </div>
-            <!-- BEGAIN SUBSCRIVE FORM -->
+            <!-- BEGIN SUBSCRIVE FORM -->
             <form class="subscribe_form">
               <div class="subscrive_group wow fadeInUp">
                 <input class="form-control subscribe_mail" type="email" placeholder="Enter your email address">
@@ -1121,16 +1121,16 @@
          <div class="row">
            <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="footer_left">
-				<!--=========== Designed By WpFreeware Team ================-->
-               <p>Copyright &copy; 2015 <a href="http://www.wpfreeware.com">WpFreeware</a>. All Rights Reserved</p>
-			   <!--=========== Designed By WpFreeware Team ================-->
+				<!--=========== Designed By 22UponTwo ================-->
+               <p>Copyright &copy; <?php echo date("Y");  ?> <a href="http://www.22upontwo.com">22UponTwo</a>. All Rights Reserved</p>
+			   <!--=========== Designed By 22UponTwo ================-->
              </div>
            </div>
            <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="footer_right">
                <ul class="social_nav">
                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                 <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
                  <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                  <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                </ul>
