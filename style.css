@@ -366,8 +366,9 @@ img{
 	border: 2px solid #fff;
 	color: #fff;
 	font-size: 20px;
+  font-family: Candara;
+  font-variant: normal;
 	display: inline-block;
-	text-transform: uppercase;
 }
 .slider_btn:hover,.slider_btn:focus{
 	text-decoration: none;
@@ -525,12 +526,14 @@ div[data-dimension] {
 	float: left;
 	display: block;
 	width: 100%;
-	text-align: center;
+	text-align: left;
 }
 .single_skill > h4 {
   color: #ffffff;
   font-size: 20px;
   font-weight: bold;
+  display: block;
+  text-align: left;
 }
 
 /*--------------------*/
@@ -1276,7 +1279,7 @@ textarea .form-control {
 }
 
 #contactFeature{
-	background-image: url("img/contact-feature-bg.jpg");
+	background-image: url("img/aboutus/contact.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;	
 	position: relative;
