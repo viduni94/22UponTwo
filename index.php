@@ -52,12 +52,7 @@
     <link href='http://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+   
     <style type="text/css">
 
             .clearfix:before,.clearfix:after {content: " "; display: table;}
@@ -724,7 +719,7 @@
     <!--=========== END PRICING SECTION ================-->
 
 
-    <!--=========== BEGAIN BLOG SECTION ================-->
+    <!--=========== BEGIN BLOG SECTION ================-->
     <section id="blog">
       <div class="container">
         <div class="row">
@@ -732,33 +727,33 @@
             <!-- START BLOG HEADING -->
             <div class="heading">
               <h2 class="wow fadeInLeftBig">Latest News From Blog</h2>
-              <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
+              <!-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p> -->
             </div>
           </div>
           <div class="col-lg-12 col-md-12">
-            <!-- BEGAIN BLOG CONTENT -->
+            <!-- BEGIN BLOG CONTENT -->
             <div class="blog_content">
 
-              <!-- BEGAIN BLOG SLIDER -->
+              <!-- BEGIN BLOG SLIDER -->
               <div class="blog_slider">
-                <!-- BEGAIN SINGLE BLOG -->
+                <!-- BEGIN SINGLE BLOG -->
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
-                      <img src="img/blog_img1.jpg" alt="img">
+                      <img src="img/blog_post1.jpg" alt="img">
                     </div>
-                    <h3>Sed ut perspiciatis unde omnis</h3>
+                    <h3>Want to turn your life around?</h3>
                     <div class="post_commentbox">
-                      <a href="#"><i class="fa fa-user"></i>Wpfreeware</a>
-                      <span><i class="fa fa-calendar"></i>6:49 AM</span>
-                      <a href="#"><i class="fa fa-tags"></i>Technology</a>
+                      <a href="#"><i class="fa fa-user"></i>Nuwanthika</a>
+                      <span><i class="fa fa-calendar"></i>19-02-2017 5:15 PM</span>
+                      <a href="#"><i class="fa fa-tags"></i>DIYforLife</a>
                     </div>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-                    <a href="#" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>                   
+                    <p>If you are unhappy about the way you’ve been spending 2017 so far, it’s still not too late to change some things around and start heading in the right direction. Here are a few things that you can do right now that will help change your life this year.</p>
+                    <a href="blog/blogPost_1.php" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>                   
                   </div>
                 </div>
 
-                <!-- BEGAIN SINGLE BLOG -->
+                <!-- BEGIN SINGLE BLOG -->
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
@@ -1017,7 +1012,7 @@
                   <input class="form-control" type="email" placeholder="Email" name="email" required>
                   <input class="form-control" type="text" placeholder="Subject" name="subject">
                   <textarea class="form-control" cols="30" rows="10" placeholder="Your Message" name="message" required></textarea>
-                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="submit_btn" type="submit" name="submit" value="Send">  
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="submit_btn" type="submit" name="submit" value="Send" onclick="popup();">  
                 </form>
               </div>
             </div>
@@ -1152,5 +1147,7 @@
 
     <!-- Custom js-->
     <script src="js/custom.js"></script>
+
+    
   </body>
 </html>
