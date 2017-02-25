@@ -80,14 +80,15 @@
     <div class="container">
 
         <div class="row">
-            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"></div>
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"></div>
+
             <!-- Blog Post Content Column -->
             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
 
                 <!-- Blog Post -->
 
                 <!-- Title -->
-                <h1>Want to turn your life around?</h1>
+                <h1>Why trust a young brand?</h1>
 
                 <!-- Author -->
                 <p class="lead">
@@ -97,42 +98,41 @@
                 <hr>
 
                 <!-- Date/Time -->
-                <p><span class="glyphicon glyphicon-time"></span> Posted on February 19, 2017 at 5:15 PM</p>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on February 24, 2017 at 1:30 PM</p>
 
                 <hr>
 
                 <!-- Preview Image -->
-                <img class="img-responsive" src="../img/blog_post1_main.jpg" alt="">
+                <img class="img-responsive" src="../img/blog_post2_main.jpg" alt="">
 
                 <hr>
 
                 <!-- Post Content -->
-                <p class="lead">If you are unhappy about the way you’ve been spending 2017 so far, it’s still not too late to change some things around and start heading in the right direction. Here are a few things that you can do right now that will help change your life this year.</p>
+                <p class="lead">More and more young people in Sri Lanka are investing their time and money to generate novel solutions to some of the most critical problems in the business world. Even though they have great ideas and execute their plan seamlessly, a bottleneck they encounter often is the lack of support from their target clientele.</p>
 
-                <h4>Define a purpose for 2017</h4>
-                <p>Most of us are so used to living a mediocre life that even the thought of investing our time towards something purposeful seems beyond our capabilities. Yet, how can you make your life productive if you don’t know what you want to achieve? </p>
-                <p>Therefore, step one would be to define a purpose for this year.  It may even help to write it down on a journal/diary or even make it into a small doodle and use it as the wallpaper on your digital devices. The important part is to make this a purpose that you truly care about. It can’t be a goal someone else wants you to achieve, it has to be something that you believe to be worthwhile. </p>
-                <p>It’s very important to remember that this purpose shouldn’t be a monumental. While some of you may want to start a business this year, others would have a much simpler purpose such as getting into shape and living a healthy life. Whatever, your purpose is, take a few minutes, repeat it to yourself and if it feels right, note it down and start working towards it.</p>
+                <p>This, mainly steams from the inability most Sri Lankans have to trust a young brand. No one wants to be the first to try out a new product. However, there are many advantages of being a company that is ready to rust a young brand. </p>
+
+                <h4>They are fearless  </h4>
+                <p>Young brands are not weighed down by industry politics and restrictions. Instead they are brave and empowered. They will be constantly driven to experiment new ideas and add a brand new life to whatever the project they undertake. They are willing to take risks and they are not afraid of failure. They will always be true to their beliefs and will carry out operations very transparently. </p>
+                <p>As an entity acquiring a service from such a brand, you are guaranteed to witness novelty on a daily basis. Being a part of their journey of becoming an established brand, your company will also be enriched with fresh ideas and energy. </p>
+
+                <h4>Hard work is in their DNA </h4>
+                <p>An idea isn’t sufficient to start up a brand that is capable of offering services to a clientele. A lot of hard work and long nights are critical to ensure that the idea is executed. If you are working with a young brand, you can be certain that they have had a taste of how exhausting life can be. More importantly, they have survived through the hard part and clearly have a great appreciation for hard work. </p>
                 <br>
 
-                <h4>Embrace every day like it is your last </h4>
-                <p>This may sound more pessimistic than encouraging.  However, if we really think about it, most of us choose to waste our time each day because we have an absolute certainty that it isn’t going to be our last. </p>
-                <p>But, boy aren’t we wrong.</p>
-                <p>No matter how young and healthy we are, there is no guarantee on life. </p>
-                <p>The moment you realize the value every single day holds, the intrinsic force we have as humans to protect what’s valuable will kick in. And before you know it, you will be doing more and achieving more than you ever thought possible. </p>
+                <h4>They have a point to prove </h4>
+                <p>The thing with young brands is that they always have a point to prove. They have to claim the right to be recognized as a brand that can be trusted. Therefore, every operation they carry out will be done with that in mind. They won’t compromise on quality and will always strive their best to deliver an exceptional service to their consumers. </p>
+                <p>The passion and love they possess for what they do will make them the best at it. </p>
+                <p>If you are trying to decide if you should trust a young brand with your business requirements, it is fair to say that you have more to gain than to lose by doing so. </p>
                 <br>
 
-                <h4>Step out of your comfort zone</h4>
-                <p>We all love living in our own little bubble. A place that is safe and free from any danger. </p>
-                <p>But until you decide to step out and experience other things in life, you will never know how much potential you really have. Therefore, make a conscious effort to do things that scare you this year. This doesn’t mean that you should go bungee jumping one day and jump off an aircraft the next. Just take a small yet brave step towards embracing something new. It could be as simple as signing up for a task that you don’t quite know how to do or becoming friends with someone who used to intimidate you.</p>
-                <p>The biggest challenge is to give into your fears. The rest will follow through. </p>
 
-                
+               
 
                 <!-- Blog Comments -->
 
                 <!-- Comments Form -->
-                <!-- <div class="well">
+               <!--  <div class="well">
                     <h4>Leave a Comment:</h4>
                     <form role="form">
                         <div class="form-group">
@@ -147,7 +147,7 @@
                 <!-- Posted Comments -->
 
                 <!-- Comment -->
-              <!--   <div class="media">
+                <!-- <div class="media">
                     <a class="pull-left" href="#">
                         <img class="media-object" src="http://placehold.it/64x64" alt="">
                     </a>
@@ -170,7 +170,7 @@
                         </h4>
                         Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. -->
                         <!-- Nested Comment -->
-                       <!--  <div class="media">
+                        <!-- <div class="media">
                             <a class="pull-left" href="#">
                                 <img class="media-object" src="http://placehold.it/64x64" alt="">
                             </a>
@@ -237,18 +237,18 @@
                 </div> -->
 
                 <!-- Side Widget Well -->
-               <!--  <div class="well">
+                <!-- <div class="well">
                     <h4>Share This:</h4> -->
                     
                     <!-- Your share button code -->
-                     <!-- <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2F22upontwo.com/blog/blogPost_1.php%2F&layout=button_count&size=large&mobile_iframe=true&appId=180469645778992&width=78&height=20" width="90" height="30" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                     <!-- <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2F22upontwo.com/index.php/blog/blogPost_1.php%2F&layout=button_count&size=large&mobile_iframe=true&appId=180469645778992&width=78&height=20" width="90" height="30" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
                     
                 </div>
 
             </div> -->
 
-        </div>
+         </div> 
         <!-- /.row -->
 
         <hr>

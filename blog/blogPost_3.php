@@ -80,14 +80,15 @@
     <div class="container">
 
         <div class="row">
-            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"></div>
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"></div>
+
             <!-- Blog Post Content Column -->
             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
 
                 <!-- Blog Post -->
 
                 <!-- Title -->
-                <h1>Want to turn your life around?</h1>
+                <h1>Creating the “work–study” culture in Sri Lanka </h1>
 
                 <!-- Author -->
                 <p class="lead">
@@ -97,35 +98,31 @@
                 <hr>
 
                 <!-- Date/Time -->
-                <p><span class="glyphicon glyphicon-time"></span> Posted on February 19, 2017 at 5:15 PM</p>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on February 25, 2017 at 8:00 AM</p>
 
                 <hr>
 
                 <!-- Preview Image -->
-                <img class="img-responsive" src="../img/blog_post1_main.jpg" alt="">
+                <img class="img-responsive" src="../img/blog_post3_main.jpg" alt="">
 
                 <hr>
 
                 <!-- Post Content -->
-                <p class="lead">If you are unhappy about the way you’ve been spending 2017 so far, it’s still not too late to change some things around and start heading in the right direction. Here are a few things that you can do right now that will help change your life this year.</p>
+                <p class="lead">In the western world, it is unusual to hear of a young person who hasn’t been involved in a job during their youth.  Contrastingly in Sri Lanka, the reality is very different. Only a handful of people even consider the possibility of getting real life experience while completing their education. </p>
 
-                <h4>Define a purpose for 2017</h4>
-                <p>Most of us are so used to living a mediocre life that even the thought of investing our time towards something purposeful seems beyond our capabilities. Yet, how can you make your life productive if you don’t know what you want to achieve? </p>
-                <p>Therefore, step one would be to define a purpose for this year.  It may even help to write it down on a journal/diary or even make it into a small doodle and use it as the wallpaper on your digital devices. The important part is to make this a purpose that you truly care about. It can’t be a goal someone else wants you to achieve, it has to be something that you believe to be worthwhile. </p>
-                <p>It’s very important to remember that this purpose shouldn’t be a monumental. While some of you may want to start a business this year, others would have a much simpler purpose such as getting into shape and living a healthy life. Whatever, your purpose is, take a few minutes, repeat it to yourself and if it feels right, note it down and start working towards it.</p>
+                <p>However, this has also adversely effected their lives by limiting them to what their parents can provide. Young people in Sri Lanka never believe themselves to be capable of being self-sufficient until they officially start a job during their mid-twenties. </p>
+
+                <h4>Why should it change?</h4>
+                <p>The levels of theft, corruption and other forms of crime are increasing rapidly in Sri Lanka. A very critical reason to this is because people resort to any means in order to make ends meet instead of coming up with effective and straightforward solutions for their problems. A person stricken with poverty would resort to living a life of crime because they are unaware about the many possibilities that are available for their development. </p>
+                <p>Encouraging people to capture as much real world experience as possible during early stages of their youth will get them in touch with their true potential and the capacity they have to live a healthy and well-rounded life. </p>
+
+                <h4>How can it change?</h4>
+                <p>Most schools don’t entertain the idea of their students getting involved in anything but the school’s operations. There is no focus on career development during the primary and secondary stages of a child’s education in Sri Lanka. Those who are brave enough to initiate something novel are not recognized or appreciated.  </p>
+                
+                <p>Therefore, the start should take place in transforming our school infrastructure to accommodate more driven and passionate young people who are ready to take control of their life.  </p>
+                
                 <br>
 
-                <h4>Embrace every day like it is your last </h4>
-                <p>This may sound more pessimistic than encouraging.  However, if we really think about it, most of us choose to waste our time each day because we have an absolute certainty that it isn’t going to be our last. </p>
-                <p>But, boy aren’t we wrong.</p>
-                <p>No matter how young and healthy we are, there is no guarantee on life. </p>
-                <p>The moment you realize the value every single day holds, the intrinsic force we have as humans to protect what’s valuable will kick in. And before you know it, you will be doing more and achieving more than you ever thought possible. </p>
-                <br>
-
-                <h4>Step out of your comfort zone</h4>
-                <p>We all love living in our own little bubble. A place that is safe and free from any danger. </p>
-                <p>But until you decide to step out and experience other things in life, you will never know how much potential you really have. Therefore, make a conscious effort to do things that scare you this year. This doesn’t mean that you should go bungee jumping one day and jump off an aircraft the next. Just take a small yet brave step towards embracing something new. It could be as simple as signing up for a task that you don’t quite know how to do or becoming friends with someone who used to intimidate you.</p>
-                <p>The biggest challenge is to give into your fears. The rest will follow through. </p>
 
                 
 
@@ -147,7 +144,7 @@
                 <!-- Posted Comments -->
 
                 <!-- Comment -->
-              <!--   <div class="media">
+                <!-- <div class="media">
                     <a class="pull-left" href="#">
                         <img class="media-object" src="http://placehold.it/64x64" alt="">
                     </a>
@@ -170,7 +167,7 @@
                         </h4>
                         Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. -->
                         <!-- Nested Comment -->
-                       <!--  <div class="media">
+                        <!-- <div class="media">
                             <a class="pull-left" href="#">
                                 <img class="media-object" src="http://placehold.it/64x64" alt="">
                             </a>
@@ -188,10 +185,10 @@
             </div>
 
             <!-- Blog Sidebar Widgets Column -->
-            <!-- <div class="col-md-4"> -->
+           <!--  <div class="col-md-4"> -->
 
                 <!-- Blog Search Well -->
-                <!-- <div class="well">
+               <!--  <div class="well">
                     <h4>Blog Search</h4>
                     <div class="input-group">
                         <input type="text" class="form-control">
@@ -241,12 +238,12 @@
                     <h4>Share This:</h4> -->
                     
                     <!-- Your share button code -->
-                     <!-- <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2F22upontwo.com/blog/blogPost_1.php%2F&layout=button_count&size=large&mobile_iframe=true&appId=180469645778992&width=78&height=20" width="90" height="30" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                     <!-- <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2F22upontwo.com/index.php/blog/blogPost_1.php%2F&layout=button_count&size=large&mobile_iframe=true&appId=180469645778992&width=78&height=20" width="90" height="30" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
                     
-                </div>
+                </div> -->
 
-            </div> -->
+            <!-- </div> -->
 
         </div>
         <!-- /.row -->

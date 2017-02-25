@@ -21,6 +21,11 @@
 	border-color:#0abab5;
 	color: #0abab5;
 }
+
+.slider_btn_a{
+  border-color:#0abab5;
+  color: #0abab5;
+}
 .slides-navigation a::before,
 .slides-navigation a::after,
 .slides-navigation .icon-wrap::before,

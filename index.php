@@ -98,13 +98,19 @@
             <!-- <a class="navbar-brand" href="#">Single<span>Pro</span></a> -->
             
             <!-- IMG BASED LOGO  -->
-            <a class="navbar-brand" href="#"><img style="height:100px; width:110px" src="img/22UponTwo_tiffanyBlueLogo.png" alt="logo"></a> 
+            <div class="hidden-xs">
+            <a class="navbar-brand" href="index.php"><img style="height:100px; width:110px" src="img/22UponTwo_tiffanyBlueLogo.png" alt="logo"></a> 
+            </div>
+
+            <div class="visible-xs">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php" class="slider_btn_a"><strong>22UponTwo</strong></a> 
+            </div>
             
                    
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
-              <li class="active"><a href="#">Home</a></li>
+              <li class="active"><a href="index.php">Home</a></li>
               <li><a href="#about">About</a></li>
               <li><a href="#service">Services</a></li> 
               <li><a href="#works">Portfolio</a></li>
@@ -132,8 +138,8 @@
               <!-- FIRST SLIDE CAPTION-->
               <div class="slider_caption">
                 <h2>COLOURFUL IDEAS THAT CHANGE YOUR LIFE</h2>
-                <p>We are a web-based creative solution platform</p>
-                <a href="#" class="slider_btn">22UponTwo</a>              
+                <p>We are a web-based creative solutions platform</p>
+                <a href="index.php" class="slider_btn">22UponTwo</a>              
               </div>
             </li>
 
@@ -145,9 +151,9 @@
               <img src="img/home/home1.jpg" alt="img">
               <!-- SECOND SLIDE CAPTION-->
               <div class="slider_caption">
-                <h2>INNOVATIVE AND AGILE SOLUTIONS TO HELP YOU GROW</h2>
-                <p>We are a web-based creative solution platform</p>
-                <a href="#" class="slider_btn">22UponTwo</a>
+                <h2>INNOVATIVE SOLUTIONS TO HELP YOU GROW</h2>
+                <p>We are a web-based creative solutions platform</p>
+                <a href="index.php" class="slider_btn">22UponTwo</a>
               </div>
             </li>
 
@@ -159,9 +165,9 @@
               <img src="img/home/home3.jpg" alt="img">
               <!-- THIRD SLIDE CAPTION-->
               <div class="slider_caption">
-                <h2>TIMELESS MOMENTS THAT YOU CAN TREASURE</h2>
-                <p>We are a web-based creative solution platform</p>
-                <a href="#" class="slider_btn">22UponTwo</a>                 
+                <h2>TIMELESS MOMENTS THAT CAN TREASURE</h2>
+                <p>We are a web-based creative solutions platform</p>
+                <a href="index.php" class="slider_btn">22UponTwo</a>                 
               </div>
             </li>
           </ul>
@@ -195,7 +201,7 @@
               <!-- START ABOUT HEADING -->
               <div class="heading">
                 <h2 class="wow fadeInLeftBig">About Us</h2>
-                <p>We are a web based creative solutions platform that looks to offer affordable and efficient solutions to a spectrum of creative requirements; Our services extend towards both retail and corporate clients.</p>
+                <p>We are a web based creative solutions platform that looks to offer affordable and efficient solutions to a spectrum of creative requirements. Our services extend towards both retail and corporate clients.</p>
 
                 <p>Driven by a young enthusiastic team with the passion to innovate, 22UponTwo believes in collaborating with fellow creative minds in the country to design unique approaches towards solving our clients' problems.</p>
               </div>
@@ -301,13 +307,13 @@
                     <p style="color: white; text-align: left">Our formula for providing creative solutions allows us to ensure that we explore multiple avenues in order to shape our services around what the customer requires.</p> 
                     </div>              
                   <br><br><br>
-                  <div class="col-lg-1 col-md-1 col-sm-1"></div>
+                  <div class="col-lg-2 col-md-2 col-sm-2"></div>
                   <!-- START SINGLE SKILL-->
                   <div class="col-lg-2 col-md-2 col-sm-2">
                   <div class="single_skill wow fadeInUp">
                   <div class="clearfix">
-                    <div class="c100 p20 green">
-                        <span>20%</span>
+                    <div class="c100 p25 green">
+                        <span>25%</span>
                         <div class="slice">
                             <div class="bar"></div>
                             <div class="fill"></div>
@@ -325,38 +331,24 @@
                   <div class="col-lg-2 col-md-2 col-sm-2">
                   <div class="single_skill wow fadeInUp">
                   <div class="clearfix">
-                    <div class="c100 p40 green">
-                        <span>40%</span>
+                    <div class="c100 p50 green">
+                        <span>50%</span>
                         <div class="slice">
                             <div class="bar"></div>
                             <div class="fill"></div>
                         </div>
                     </div>
                   </div>
-                  <h4>&nbsp;&nbsp;&nbsp;Research</h4> 
+                  <h4>&nbsp;&nbsp;&nbsp;Research<br><br></h4> 
                   </div>
                   </div>
+                  
                   <!-- START SINGLE SKILL-->
                   <div class="col-lg-2 col-md-2 col-sm-2">
                   <div class="single_skill wow fadeInUp">
                   <div class="clearfix">
-                    <div class="c100 p60 green">
-                        <span>60%</span>
-                        <div class="slice">
-                            <div class="bar"></div>
-                            <div class="fill"></div>
-                        </div>
-                    </div>
-                  </div>
-                  <h4>&nbsp;&nbsp;Hypothesis<br>&nbsp;&nbsp;&nbsp;&nbsp; Testing</h4> 
-                  </div>
-                  </div>
-                  <!-- START SINGLE SKILL-->
-                  <div class="col-lg-2 col-md-2 col-sm-2">
-                  <div class="single_skill wow fadeInUp">
-                  <div class="clearfix">
-                    <div class="c100 p80 green">
-                        <span>80%</span>
+                    <div class="c100 p75 green">
+                        <span>75%</span>
                         <div class="slice">
                             <div class="bar"></div>
                             <div class="fill"></div>
@@ -430,9 +422,9 @@
                     <div class="service_iconarea">
                       <span class="fa fa-camera service_icon"></span>
                     </div>
-                    <h3 class="service_title">Event Planing</h3>
+                    <h3 class="service_title">Event Planning</h3>
                     <p>We know that planning and carrying out an event can be an exhausting task. It takes away your opportunity to actually enjoy and be a part of the event that you worked so hard to create. That is where we come in. With our end to end service, we are ready to assist you from the planning stages of your event and see it through to its final execution.</p>
-                    <p>Our Event Planing Services include,<strong>
+                    <p>Our Event Planning Services include,<strong>
                     <ul style="list-style-type:square">
                       <li>Event Concepts</li>
                       <li>Decorations</li>
@@ -448,9 +440,9 @@
                     <div class="service_iconarea">
                       <span class="fa fa-facebook-square service_icon"></span>
                     </div>
-                    <h3 class="service_title">Web Services</h3>
+                    <h3 class="service_title">Social Media Management <br>& Web Services</h3>
                     <p>If you are a new brand that is trying to establish yourself in the industry, creating online presence is crucial for your survival. We are ready to offer affordable services for all your web needs while maintaing your brand's identity.</p>
-                    <p>Our Web Service include,<strong>
+                    <p>Our Web Services include,<strong>
                     <ul style="list-style-type:square">
                       <li>Social Media Management</li>
                       <li>Web Development</li>
@@ -466,7 +458,7 @@
                       <span class="fa fa-pencil-square-o service_icon"></span>
                     </div>
                     <h3 class="service_title">Content Creation</h3>
-                    <p>Whether it is a magazine article, newspaper ad or an event leaflet that you require, we are ready to offer our services to you. We understand that each brand has a unique clientele and that material should be designed to meet its target audience. We promise not to overcomplicate what you want to communicate create simple and high quality content for you.</p>
+                    <p>Whether it is a magazine article, newspaper ad or an event leaflet that you require, we are ready to offer our services to you. We understand that each brand has a unique clientele and that material should be designed to meet its target audience. We promise not to overcomplicate what you want to communicate and to create simple and high quality content for you.</p>
                   </div>
                 </div>
                 </div>               
@@ -479,7 +471,7 @@
     <!--=========== END SERVICE SECTION ================-->
 
     <!--=========== BEGAIN WORKS SECTION ================-->
-    <section id="works">
+    <section id="works"> 
       <!-- BEGAIN MILESTONE WORSK SECTION -->
       <!-- <div class="row">
         <div class="col-lg-12 col-md-12">
@@ -532,23 +524,24 @@
 
       <br>
       <br>
-      <!-- BEGAIN FORTFOLIO WORSK SECTION -->
+      <!-- BEGIN FORTFOLIO WORK SECTION -->
       <div class="row">
         <div class="portfolio_area">
-          <!-- BEGAIN PORTFOLIO HEADER -->
+          <!-- BEGIN PORTFOLIO HEADER -->
           <div class="row">
             <div class="col-lg-12 col-md-12">
              <div class="container">
                 <div class="heading">
                   <h2 class="wow fadeInLeftBig">Portfolio</h2>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text</p>
+                  <p>We have been fortunate to work with both young and established brands in the country thus far. Our projects have all been highly distinct from each other, which enabled us to explore multiple industries and platforms.</p>
+                  <p>© All rights reserved (Copying, Publishing or Unauthorized use of these designs and photos are strictly prohibited)</p>
                 </div>
               </div>
             </div>
           </div>
           <!-- END PORTFOLIO HEADER -->
 
-          <!-- BEGAIN PORTFOLIO GALLERY -->
+          <!-- BEGIN PORTFOLIO GALLERY -->
           <div class="row">
             <div class="portfolio_gallery">
               <div id="elastic_grid_demo"></div>
@@ -557,7 +550,7 @@
           <!-- END PORTFOLIO GALLERY -->
         </div>         
       </div>      
-      <!-- END FORTFOLIO WORSK SECTION -->
+      <!-- END FORTFOLIO WORK SECTION -->
     </section>
     <!--=========== END WORKS SECTION ================-->
 
@@ -726,7 +719,7 @@
           <div class="col-lg-12 col-md-12">
             <!-- START BLOG HEADING -->
             <div class="heading">
-              <h2 class="wow fadeInLeftBig">Latest News From Blog</h2>
+              <h2 class="wow fadeInLeftBig">CREATIVE SOLUTIONS FOR LIFE</h2>
               <!-- <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p> -->
             </div>
           </div>
@@ -740,13 +733,13 @@
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
-                      <img src="img/blog_post1.jpg" alt="img">
+                      <img src="img/blog_post1.jpg" alt="img" responsive>
                     </div>
                     <h3>Want to turn your life around?</h3>
                     <div class="post_commentbox">
-                      <a href="#"><i class="fa fa-user"></i>Nuwanthika</a>
+                      <span><i class="fa fa-user"></i>Nuwanthika</span>
                       <span><i class="fa fa-calendar"></i>19-02-2017 5:15 PM</span>
-                      <a href="#"><i class="fa fa-tags"></i>DIYforLife</a>
+                      <span><i class="fa fa-tags"></i>DIYforLife</span>
                     </div>
                     <p>If you are unhappy about the way you’ve been spending 2017 so far, it’s still not too late to change some things around and start heading in the right direction. Here are a few things that you can do right now that will help change your life this year.</p>
                     <a href="blog/blogPost_1.php" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>                   
@@ -757,20 +750,36 @@
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
-                      <img src="img/blog_img1.jpg" alt="img">
+                      <img src="img/blog_post2.jpg" alt="img" responsive>
                     </div>
-                    <h3>Sed ut perspiciatis unde omnis</h3>
+                    <h3>Why trust a young brand?</h3>
                     <div class="post_commentbox">
-                      <a href="#"><i class="fa fa-user"></i>Wpfreeware</a>
-                      <span><i class="fa fa-calendar"></i>6:49 AM</span>
-                      <a href="#"><i class="fa fa-tags"></i>Technology</a>
+                      <span><i class="fa fa-user"></i>Nuwanthika</span>
+                      <span><i class="fa fa-calendar"></i>24-02-2017 1:30 PM</span>
+                      <span><i class="fa fa-tags"></i>DIYforLife</span>
                     </div>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-                    <a href="#" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
+                    <p>More and more young people in Sri Lanka are investing their time and money to generate novel solutions to some of the most critical problems in the business world. Even though they have great ideas and execute their plan seamlessly, a bottleneck they encounter often is the lack of support from their target clientele.</p>
+                    <a href="blog/blogPost_2.php" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
                   </div>
                 </div>
                 <!-- BEGAIN SINGLE BLOG -->
                 <div class="col-lg-4 col-md-4 col-sm-4">
+                  <div class="single_post wow fadeInUp">
+                    <div class="blog_img">
+                      <img src="img/blog_post3.jpg" alt="img" responsive>
+                    </div>
+                    <h3>Creating the “work–study” culture in Sri Lanka</h3>
+                    <div class="post_commentbox">
+                      <span><i class="fa fa-user"></i>Nuwanthika</span>
+                      <span><i class="fa fa-calendar"></i>8:00 AM</span>
+                      <span><i class="fa fa-tags"></i>CreateChange</span>
+                    </div>
+                    <p>In the western world, it is unusual to hear of a young person who hasn’t been involved in a job during their youth.  Contrastingly in Sri Lanka, the reality is very different. Only a handful of people even consider the possibility of getting real life experience while completing their education. </p>
+                    <a href="blog/blogPost_3.php" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
+                  </div>
+                </div>
+                <!-- BEGAIN SINGLE BLOG -->
+               <!--  <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
                       <img src="img/blog_img1.jpg" alt="img">
@@ -784,9 +793,9 @@
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
                     <a href="#" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
                   </div>
-                </div>
+                </div> -->
                 <!-- BEGAIN SINGLE BLOG -->
-                <div class="col-lg-4 col-md-4 col-sm-4">
+               <!--  <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
                       <img src="img/blog_img1.jpg" alt="img">
@@ -800,9 +809,9 @@
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
                     <a href="#" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
                   </div>
-                </div>
+                </div> -->
                 <!-- BEGAIN SINGLE BLOG -->
-                <div class="col-lg-4 col-md-4 col-sm-4">
+                <!-- <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
                     <div class="blog_img">
                       <img src="img/blog_img1.jpg" alt="img">
@@ -816,23 +825,7 @@
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
                     <a href="#" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
                   </div>
-                </div>
-                <!-- BEGAIN SINGLE BLOG -->
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                  <div class="single_post wow fadeInUp">
-                    <div class="blog_img">
-                      <img src="img/blog_img1.jpg" alt="img">
-                    </div>
-                    <h3>Sed ut perspiciatis unde omnis</h3>
-                    <div class="post_commentbox">
-                      <a href="#"><i class="fa fa-user"></i>Wpfreeware</a>
-                      <span><i class="fa fa-calendar"></i>6:49 AM</span>
-                      <a href="#"><i class="fa fa-tags"></i>Technology</a>
-                    </div>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-                    <a href="#" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
-                  </div>
-                </div>                
+                </div> -->                
               </div>
             </div>
           </div>
@@ -992,7 +985,7 @@
             <!-- START CONTACT HEADING -->
             <div class="heading">
               <h2 class="wow fadeInLeftBig">Contact Us</h2>
-              <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
+              <p>Get in touch with us instantly via the contact form below. We are here to answer any questions you may have for 22UponTwo. Reach out to us and we'll respond as soon as we can! </p>
             </div>
           </div>
         </div>       
@@ -1008,8 +1001,8 @@
                 <div id="form-messages"></div>
 
                 <form method="POST" action="php/contact.php">
-                  <input class="form-control" type="text" placeholder="Name" name="name">
-                  <input class="form-control" type="email" placeholder="Email" name="email" required>
+                  <input class="form-control" type="text" placeholder="Your Name" name="name">
+                  <input class="form-control" type="email" placeholder="Share your email address with us" name="email" required>
                   <input class="form-control" type="text" placeholder="Subject" name="subject">
                   <textarea class="form-control" cols="30" rows="10" placeholder="Your Message" name="message" required></textarea>
                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="submit_btn" type="submit" name="submit" value="Send" onclick="popup();">  
@@ -1079,8 +1072,8 @@
           <div class="col-lg-12 col-md-12">
             <!-- START SUBSCRIBE HEADING -->
             <div class="heading">
-              <h2 class="wow fadeInLeftBig">Subscribe Us</h2>
-              <p>Enter your email address to subscribe with 22UponTwo to be updated on our latest blog posts, services, promotions etc. </p>
+              <h2 class="wow fadeInLeftBig">Subscribe</h2>
+              <p>Enter your email address to subscribe to 22UponTwo and be updated on our latest blog posts, services, promotions etc. </p>
             </div>
             <!-- BEGIN SUBSCRIVE FORM -->
             <form class="subscribe_form">
@@ -1102,16 +1095,16 @@
            <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="footer_left">
 				<!--=========== Designed By 22UponTwo ================-->
-               <p>Copyright &copy; <?php echo date("Y");  ?> <a href="http://www.22upontwo.com">22UponTwo</a>. All Rights Reserved</p>
+               <p>Copyright &copy; <?php echo date("Y");  ?> <a href="index.php">22UponTwo</a>. All Rights Reserved</p>
 			   <!--=========== Designed By 22UponTwo ================-->
              </div>
            </div>
            <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="footer_right">
                <ul class="social_nav">
-                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                 <li><a href="https://www.facebook.com/22UponTwo/"><i class="fa fa-facebook"></i></a></li>
                  <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                 <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                 <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                  <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                </ul>
              </div>
@@ -1139,7 +1132,7 @@
     <script src="js/slick.min.js"></script>    
     <!-- for circle counter -->
     <script src='https://cdn.rawgit.com/pguso/jquery-plugin-circliful/master/js/jquery.circliful.min.js'></script>
-    <!-- for portfolio filter gallery -->
+    <!-- for filter gallery -->
     <script src="js/modernizr.custom.js"></script>
     <script src="js/classie.js"></script>
     <script src="js/elastic_grid.min.js"></script>
