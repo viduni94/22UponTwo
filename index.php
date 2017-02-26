@@ -1000,12 +1000,14 @@
                 <!-- FOR CONTACT FORM MESSAGE -->
                 <div id="form-messages"></div>
 
-                <form method="POST" action="php/contact.php">
+                <form method="POST" action="http://22upontwo.com/cgi-bin/mymail.cgi">
+                <input type="hidden" name="recipient" value="info@22upontwo.com">
+                <input type="hidden" name="redirect" value="http://22upontwo.com">
                   <input class="form-control" type="text" placeholder="Your Name" name="name">
                   <input class="form-control" type="email" placeholder="Share your email address with us" name="email" required>
                   <input class="form-control" type="text" placeholder="Subject" name="subject">
                   <textarea class="form-control" cols="30" rows="10" placeholder="Your Message" name="message" required></textarea>
-                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="submit_btn" type="submit" name="submit" value="Send" onclick="popup();">  
+                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="submit_btn" type="submit" name="submit" value="Send">  
                 </form>
               </div>
             </div>
