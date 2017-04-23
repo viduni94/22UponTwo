@@ -729,6 +729,27 @@
 
               <!-- BEGIN BLOG SLIDER -->
               <div class="blog_slider">
+
+              <!-- BEGAIN SINGLE BLOG -->
+               <div class="col-lg-4 col-md-4 col-sm-4">
+                  <div class="single_post wow fadeInUp">
+                    <div class="blog_img">
+                      <img src="img/blog_post4.jpg" alt="img">
+                    </div>
+                    <h3>Facebook, Instagram or Pinterest. What’s the best choice to market your brand online?</h3>
+                    <div class="post_commentbox">
+                      <span><i class="fa fa-user"></i>Nuwanthika</span>
+                      <span><i class="fa fa-calendar"></i>22-04-2017 10.00 AM</span>
+                      <span><i class="fa fa-tags"></i>DIYforLife</span>
+                    </div>
+                    <p>It has now become a fact that social media is the most effective tool to market any brand’s products and services. Even the most traditional businesses have moved to the digital platform to increase brand awareness and sales.  </p>
+                    <a href="blog/blogPost_4.php" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
+                  </div>
+                </div> 
+
+
+
+
                 <!-- BEGIN SINGLE BLOG -->
                 <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
@@ -778,22 +799,7 @@
                     <a href="blog/blogPost_3.php" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
                   </div>
                 </div>
-                <!-- BEGAIN SINGLE BLOG -->
-               <!--  <div class="col-lg-4 col-md-4 col-sm-4">
-                  <div class="single_post wow fadeInUp">
-                    <div class="blog_img">
-                      <img src="img/blog_img1.jpg" alt="img">
-                    </div>
-                    <h3>Sed ut perspiciatis unde omnis</h3>
-                    <div class="post_commentbox">
-                      <a href="#"><i class="fa fa-user"></i>Wpfreeware</a>
-                      <span><i class="fa fa-calendar"></i>6:49 AM</span>
-                      <a href="#"><i class="fa fa-tags"></i>Technology</a>
-                    </div>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-                    <a href="#" class="read_more">Read More <i class="fa fa-angle-double-right">  </i></a>
-                  </div>
-                </div> -->
+                
                 <!-- BEGAIN SINGLE BLOG -->
                <!--  <div class="col-lg-4 col-md-4 col-sm-4">
                   <div class="single_post wow fadeInUp">
