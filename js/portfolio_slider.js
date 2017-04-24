@@ -9,7 +9,7 @@ $("#elastic_grid_demo").elastic_grid({
 		[
 			{
 			'title' : 'Skrumptious',
-			'description'   : '',
+			'description'   : 'Facebook poster',
 			'thumbnail' : ['img/portfolio/small/coffee.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
 			'large' : [''],
 			'button_list'   :
@@ -22,7 +22,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Skrumptious',
-			'description'   : '',
+			'description'   : 'Facebook poster',
 			'thumbnail' : ['img/portfolio/small/shake.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
 			'large' : [''],
 			'button_list'   :
@@ -35,7 +35,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Christmas @ Skrumptious',
-			'description'   : '',
+			'description'   : 'Facebook Poster',
 			'thumbnail' : ['img/portfolio/small/christmas.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
 			'large' : [''],
 			'button_list'   :
@@ -48,7 +48,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Skrumptious Leaflet',
-			'description'   : '',
+			'description'   : '4-sided leaflet',
 			'thumbnail' : ['img/portfolio/small/leaflet.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
 			'large' : [''],
 			'button_list'   :
@@ -61,7 +61,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Skrumptious',
-			'description'   : '',
+			'description'   : 'Facebook poster',
 			'thumbnail' : ['img/portfolio/small/pudding.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
 			'large' : [''],
 			'button_list'   :
@@ -74,7 +74,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Skrumptious Wall Menu',
-			'description'   : '',
+			'description'   : 'Graphic Designing',
 			'thumbnail' : ['img/portfolio/small/menu.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
 			'large' : [''],
 			'button_list'   :
@@ -87,7 +87,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Hemas Southern Hospitals',
-			'description'   : '',
+			'description'   : 'Web Design and Content',
 			'thumbnail' : ['img/portfolio/small/hemas.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
 			'large' : [''],
 			'button_list'   :
@@ -100,7 +100,7 @@ $("#elastic_grid_demo").elastic_grid({
 
 			{
 			'title' : 'Pink Sugar',
-			'description'   : '',
+			'description'   : 'Promotional Poster',
 			'thumbnail' : ['img/portfolio/small/pinksugar.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
 			'large' : [''],
 			'button_list'   :
@@ -112,9 +112,9 @@ $("#elastic_grid_demo").elastic_grid({
 			},
 
 			{
-			'title' : '',
-			'description'   : '',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
+			'title' : 'KVK Motor Website',
+			'description'   : 'Responsive Website',
+			'thumbnail' : ['img/portfolio/small/kvkmotor.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
 			'large' : [''],
 			'button_list'   :
 			[
@@ -122,46 +122,46 @@ $("#elastic_grid_demo").elastic_grid({
 			{ 'title':''}
 			],
 			'tags'  : ['']
-			},
+			}
 
-			{
-			'title' : '',
-			'description'   : '',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : [''],
-			'button_list'   :
-			[
-			{ 'title':'' },
-			{ 'title':''}
-			],
-			'tags'  : ['']
-			},
+			// {
+			// 'title' : '',
+			// 'description'   : '',
+			// 'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
+			// 'large' : [''],
+			// 'button_list'   :
+			// [
+			// { 'title':'' },
+			// { 'title':''}
+			// ],
+			// 'tags'  : ['']
+			// },
 
-			{
-			'title' : '',
-			'description'   : '',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : [''],
-			'button_list'   :
-			[
-			{ 'title':'' },
-			{ 'title':''}
-			],
-			'tags'  : ['']
-			},
+			// {
+			// 'title' : '',
+			// 'description'   : '',
+			// 'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
+			// 'large' : [''],
+			// 'button_list'   :
+			// [
+			// { 'title':'' },
+			// { 'title':''}
+			// ],
+			// 'tags'  : ['']
+			// },
 
-			{
-			'title' : '',
-			'description'   : '',
-			'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
-			'large' : [''],
-			'button_list'   :
-			[
-			{ 'title':'' },
-			{ 'title':''}
-			],
-			'tags'  : ['']
-			},
+			// {
+			// 'title' : '',
+			// 'description'   : '',
+			// 'thumbnail' : ['img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg', 'img/portfolio/small/1.jpg'],
+			// 'large' : [''],
+			// 'button_list'   :
+			// [
+			// { 'title':'' },
+			// { 'title':''}
+			// ],
+			// 'tags'  : ['']
+			// },
 
 			// {
 			// 'title' : 'Azuki bean',
